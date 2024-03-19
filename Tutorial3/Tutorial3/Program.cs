@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Tutorial3;
 
-Console.WriteLine("Hello, World!");
+List<int> numbers = new List<int>() {1, 2, 3};
+
+Dictionary<PossibleProducts, double> d = new ();
